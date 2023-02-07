@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Drostina</h1>
+<h1 align="center">Hi, I'm Drostina 🇬🇧</h1>
 <h3 align="center">I am passionate about Linux and I daily drive Fedora with Gnome Desktop Environment, I work with Unreal Engine and Flutter most of the time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drostina&label=Profile%20views&color=0e75b6&style=flat" alt="drostina" /> </p>
