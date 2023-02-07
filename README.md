@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **to contribute to the open source community**
 
-- 👨‍💻 All of my projects are available [here, on Github](here, on Github)
+- 👨‍💻 All of my projects are available **here on Github**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
