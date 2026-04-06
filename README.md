@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Drostina 🇬🇧</h1>
-<h3 align="center">I am passionate about Linux and I daily drive Fedora with GNOME. I work with Unreal Engine and Flutter most of the time</h3>
+<h4 align="center">Linux enthusiast • Fedora + GNOME • Flutter & Unreal Engine</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white" />
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=drostina&label=Profile%20views&color=0e75b6&style=flat" alt="drostina" />
 </p>
 
