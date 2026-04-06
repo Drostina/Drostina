@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Fedora+user;Flutter+developer;Unreal+Engine+enjoyer" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=drostina&label=Profile%20views&color=0e75b6&style=flat" alt="drostina" />
 </p>
 
