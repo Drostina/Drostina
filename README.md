@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=drostina&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=drostina&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
