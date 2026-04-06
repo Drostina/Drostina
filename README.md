@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Fedora+user;Flutter+developer;Unreal+Engine+enjoyer" />
+  <img src="https://streak-stats.demolab.com?user=drostina&hide_border=true" />
 </p>
 
 <p align="center">
